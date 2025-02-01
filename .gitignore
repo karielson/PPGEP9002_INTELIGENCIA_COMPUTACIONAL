@@ -1,0 +1,7 @@
+__pycache__
+bart_finetuned
+data
+notebooks
+venv
+.env
+dowloald_bart_finetuned_cnn.py
