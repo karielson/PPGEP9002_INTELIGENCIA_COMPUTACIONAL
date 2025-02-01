@@ -1,7 +1,7 @@
-__pycache__
-bart_finetuned
-data
-notebooks
-venv
-.env
-dowloald_bart_finetuned_cnn.py
+SUMARIZACAO_LLMS/__pycache__
+SUMARIZACAO_LLMS/bart_finetuned
+SUMARIZACAO_LLMS/data
+SUMARIZACAO_LLMS/notebooks
+SUMARIZACAO_LLMS/venv
+SUMARIZACAO_LLMS/.env
+SUMARIZACAO_LLMS/dowloald_bart_finetuned_cnn.py
